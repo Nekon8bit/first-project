@@ -8,4 +8,4 @@ fn main() {
 
 fn greetings(name: &str) {
     println!("{}", name); 
-}
+}a
